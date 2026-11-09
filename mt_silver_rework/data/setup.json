@@ -1,0 +1,7 @@
+{
+  "starters": [["typhlosion", 78], ["feraligatr", 78], ["meganium", 78]],
+  "companions": [["ampharos", 76], ["espeon", 76], ["heracross", 76], ["tyranitar", 76], ["ho-oh", 73]],
+  "boss_team": [["pikachu", 88], ["lapras", 80], ["snorlax", 82], ["venusaur", 84], ["charizard", 84], ["blastoise", 84]],
+  "start_bag": {"hyper_potion": 3, "full_restore": 1, "full_heal": 2, "revive": 1, "ether": 1},
+  "start": ["foot", 8, 12]
+}

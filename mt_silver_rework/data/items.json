@@ -1,0 +1,7 @@
+{
+  "hyper_potion": {"name": "Hyper Potion", "description": "Leczy 200 HP.", "heal": 200},
+  "full_restore": {"name": "Full Restore", "description": "Leczy całe HP i usuwa status.", "heal": 9999, "cures": true},
+  "full_heal": {"name": "Full Heal", "description": "Usuwa status.", "cures": true},
+  "revive": {"name": "Revive", "description": "Przywraca omdlałego Pokémona z połową HP.", "revive": true},
+  "ether": {"name": "Ether", "description": "Dodaje 10 PP wszystkim atakom.", "pp": 10}
+}
